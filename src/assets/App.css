@@ -9,3 +9,7 @@
   --fundo: #ffffff;
   --fundo-detalhes: #ececec;
 }
+
+body {
+  background-color: #58a4b0;
+}
