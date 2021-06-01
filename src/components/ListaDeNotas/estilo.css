@@ -1,12 +1,13 @@
 
 .lista-notas {
-  background-color: lightblue;
+  background-color: #58A4B0;
   flex-grow: 3;
   display: grid;
   grid-template-columns: auto auto auto auto auto;
   list-style-type: none;
   padding-left: 24px;
   padding-top: 24px;
+
 }
 .lista-notas_item {
   margin: 12px;
